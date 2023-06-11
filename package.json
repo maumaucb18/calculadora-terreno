@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-terreno",
+  "version": "1.0.0",
+  "description": "claculadora de terreno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maumaucb18/calculadora-terreno.git"
+  },
+  "author": "mauricio pignoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maumaucb18/calculadora-terreno/issues"
+  },
+  "homepage": "https://github.com/maumaucb18/calculadora-terreno#readme"
+}
