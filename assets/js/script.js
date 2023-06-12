@@ -8,13 +8,16 @@ let m2 = parseFloat(document.getElementById('met').value);
 
 
 let valor = (n1*n2)*m2;
-let input = document.createElement("input");
-  input.value = valor;
 
-  document.body.appendChild(input)
-  let inputRes = document.getElementById('res');
-  document.body.insertBefore(input,inputRes)
+document.getElementById('res').innerHTML = valor
+
+  // Armazena um item no localStorage 
+ localStorage.setItem(valor);
+// Recupera o item adicionado  
+  document.getElementById("res") .innerHTML  =  localStorage .getItem(valor); 
+
 }
 
-document.getElementById('calc').addEventListener("click",preco);
+document.getElementById('calc').addEventListener("click",preco
+);
 

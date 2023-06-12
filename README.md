@@ -1,7 +1,7 @@
-esse projeto é uma projeto pessoal onde aplico o typescript para criar um site moderno e fluido.
-utilizei API RESTFULL padrão MVC
-framework REACT com banco de dados localStorage.
-espero que aproveite a experiência e este app.
+Esse  é um projeto pessoal onde aplico o javascript para criar um site que calcula o preço de um terreno com base nas suas medidas em m² e o valor do m² das varias regiões do Brasil.
+
+Banco de dados localStorage.
+espero que aproveite a experiência.
 
 Forte Abraço! 
 Att. Maurício Pignoli
