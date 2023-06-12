@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maumaucb18/calculadora-terreno/issues"
   },
-  "homepage": "https://github.com/maumaucb18/calculadora-terreno#readme"
+  "homepage": "https://github.com/maumaucb18/calculadora-terreno#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
